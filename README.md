@@ -1,5 +1,7 @@
 # ask
 
+[![Join the chat at https://gitter.im/sethvincent/ask](https://badges.gitter.im/sethvincent/ask.svg)](https://gitter.im/sethvincent/ask?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Ask me questions if you want or don't it's up to you.
 
 [![conduct][conduct]][conduct-url]
